@@ -1,1 +1,1 @@
-# Modelo-seguidor-de-l-nea-entrenamiento
+# Modelo-seguidor-de-linea-entrenamiento
